@@ -1,4 +1,4 @@
---Hstore
+--Hstore Datatype
 
 --Hstore module implements the hstore data type for storing key value pairs in a single value
 
